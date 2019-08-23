@@ -160,7 +160,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-featu
 2. file:./
 3. classpath:/config/
 4. classpath:/
-   
+  
 
 **랜덤값 설정하기**
 
@@ -203,7 +203,7 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-featu
   - @NotNull
   - @NotEmpty
   - ...
-- @Value
+- @Value@
   - SpEL 을 사용할 수 있지만.
   - 그러나, 위에 있는 기능들은 전부 사용 못합니다.
 
